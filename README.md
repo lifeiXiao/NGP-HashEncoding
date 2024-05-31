@@ -5,7 +5,7 @@ We propose a new hash encoding method in instant-NGP, achieve 30% speed up and a
 
 ## Here are the install steps:
 
-### Firstly, pulling down the code in your own workspace
+Firstly, pulling down the code in your own workspace
 
-### Secondly, create a conda virture environments, you can follow the command below:
+Secondly, create a conda virture environments, you can follow the command below:
 
